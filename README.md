@@ -30,7 +30,7 @@ This repository contains a Power BI dashboard project that presents an in-depth 
 - **Party & Candidate Insights** – View party-wise votes, winning/runner-up candidates, and alliances.  
 - **Election Summary** – Clear bifurcation of results for quick understanding.
 
-- ## Raw Dataset - <a href= "https://github.com/Kailash-chowdhury/INDIA-GENERAL-ELECTION-RESULTS-ANALYSIS---2024/blob/main/India%20Election%20Analysis%202024.pbix">Dataset</a>
+- ## BI Dashboard - <a href= "https://github.com/Kailash-chowdhury/INDIA-GENERAL-ELECTION-RESULTS-ANALYSIS---2024/blob/main/India%20Election%20Analysis%202024.pbix">Dataset</a>
 ## Dashboard Preview - 
 <img width="1094" height="551" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/b4f50ee4-51ee-42fc-a926-e80bf036645a" />
 <img width="1165" height="569" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/dfd3a0ed-6061-4bde-b304-58520a5272c9" />
